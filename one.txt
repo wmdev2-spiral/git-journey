@@ -1,3 +1,2 @@
 one
-1
-hello
+Adding dark mode funcationality
